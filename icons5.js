@@ -17,5 +17,6 @@
 "rbknews.png",
 "HTB北海道.png",
  "メ～テレNEWS.png",
+ "ABC朝日.png",
   
 ]
