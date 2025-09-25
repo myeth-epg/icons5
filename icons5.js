@@ -18,5 +18,6 @@
 "HTB北海道.png",
  "メ～テレNEWS.png",
  "ABC朝日.png",
+ "BS10PREMIUM.png",
   
 ]
