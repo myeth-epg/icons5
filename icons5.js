@@ -21,4 +21,6 @@
  "BS10PREMIUM.png",
  "アニマックス.png",
  "グリーンチャンネル.png",
+"DiscoveryJapan.png",
+ 
 ]
