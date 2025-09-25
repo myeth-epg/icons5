@@ -8,5 +8,5 @@
 "bs-tbs.png",
 "ゴルフネットワーク.png",
 "BSフジ.png",
-
+"GAORASPORTS.png",
 ]
