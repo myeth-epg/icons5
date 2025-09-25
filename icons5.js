@@ -22,5 +22,5 @@
  "アニマックス.png",
  "グリーンチャンネル.png",
 "DiscoveryJapan.png",
- 
+ "スカイA.png",
 ]
