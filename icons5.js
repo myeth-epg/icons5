@@ -20,5 +20,5 @@
  "ABC朝日.png",
  "BS10PREMIUM.png",
  "アニマックス.png",
-  
+ "グリーンチャンネル.png",
 ]
