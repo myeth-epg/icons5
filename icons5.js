@@ -6,5 +6,6 @@
 "BS朝日.png",
 "日テレNEWS24.png",
 "bs-tbs.png",
+"ゴルフネットワーク.png",
 
 ]
