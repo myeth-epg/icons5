@@ -19,5 +19,6 @@
  "メ～テレNEWS.png",
  "ABC朝日.png",
  "BS10PREMIUM.png",
+ "アニマックス.png",
   
 ]
