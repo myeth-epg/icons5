@@ -14,6 +14,7 @@
 "Wowow.prime.png",
 "wowow.live.png",
 "wowow.cinema.png",
-
+"rbknews.png",
+"HTB北海道.png",
   
 ]
