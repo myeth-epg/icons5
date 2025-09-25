@@ -10,4 +10,5 @@
 "BSフジ.png",
 "GAORASPORTS.png",
 "テレビ東京.png",
+"tbs.png",
 ]
