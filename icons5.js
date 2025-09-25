@@ -16,5 +16,6 @@
 "wowow.cinema.png",
 "rbknews.png",
 "HTB北海道.png",
+ "メ～テレNEWS.png",
   
 ]
