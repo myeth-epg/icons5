@@ -11,4 +11,9 @@
 "GAORASPORTS.png",
 "テレビ東京.png",
 "tbs.png",
+"Wowow.prime.png",
+"wowow.live.png",
+"wowow.cinema.png",
+
+  
 ]
