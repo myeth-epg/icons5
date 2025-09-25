@@ -9,4 +9,5 @@
 "ゴルフネットワーク.png",
 "BSフジ.png",
 "GAORASPORTS.png",
+"テレビ東京.png",
 ]
